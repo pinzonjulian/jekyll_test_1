@@ -1,0 +1,9 @@
+[tools]
+node = "20.19.2"
+ruby = "3.4.4"
+yarn = "4.9.2"
+
+[env]
+MEETUP_TITLE = "Melbourne Ruby"
+
+
